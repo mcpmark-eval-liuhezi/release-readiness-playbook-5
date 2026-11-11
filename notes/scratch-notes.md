@@ -1,0 +1,3 @@
+- rough: Q4 window Oct 26 - Nov 6
+- scratch: draft customer comms msg still TBD
+- scratch: confirm rollback owner phone number with on-call
